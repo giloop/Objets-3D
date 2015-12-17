@@ -1,0 +1,9 @@
+
+# Exclusion des fichiers téléchargés
+**/Downloaded
+**/library
+Meshlab_Projects
+
+# Backup blender 
+*.blend1
+

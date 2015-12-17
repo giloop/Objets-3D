@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="763.48755"
+   height="137.92546"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 "
+   sodipodi:docname="Bandeau_Gueulomaton.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       id="perspective8310"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.57232293"
+     inkscape:cx="436.39335"
+     inkscape:cy="139.42804"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1096"
+     inkscape:window-height="710"
+     inkscape:window-x="61"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-5.54788,-605.5922)"
+     style="display:inline">
+    <path
+       style="fill:#800000;fill-opacity:1;stroke:none"
+       d="m 720.9897,688.72235 c 20.67068,3.04463 38.9935,13.61769 36.54151,21.23592 -2.45188,7.6182 -9.3621,8.61368 -14.41067,4.2366 -5.04855,-4.37708 -6.52755,-18.50355 -22.13084,-25.47252 z"
+       id="path3767"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzc"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomatonWeb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;font-family:DojoCP;-inkscape-font-specification:DojoCP"
+       x="524.11792"
+       y="736.31775"
+       id="text3823"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomatonWeb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3825"
+         x="524.11792"
+         y="736.31775"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#800000;font-family:DojoCP;-inkscape-font-specification:DojoCP">par giloop</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Appareil"
+     style="display:inline"
+     transform="translate(-5.54788,-297.3245)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Etoile"
+     style="display:inline"
+     transform="translate(-5.54788,-297.3245)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="O rond"
+     style="display:inline"
+     transform="translate(-5.54788,-297.3245)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path3797"
+       style="font-size:111.1180191px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;display:inline;font-family:AngelicaCP;-inkscape-font-specification:AngelicaCP Bold"
+       d="m 5.54788,320.55756 0,71.78224 2.88907,0 0,-71.78224 -2.88907,0 m 21.77913,0 -15.11205,0 0,71.78224 14.7787,0 0.33335,-71.78224"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomatonWeb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3799"
+       style="font-size:111.1180191px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;display:inline;font-family:AngelicaCP;-inkscape-font-specification:AngelicaCP Bold"
+       d="m 65.3884,370.89403 c 0,6.11148 4.8892,11.00068 11.00069,11.00068 6.11148,0 11.00068,-4.8892 11.00068,-11.00068 0,-6.11149 -4.8892,-11.00069 -11.00068,-11.00069 -6.11149,0 -11.00069,4.8892 -11.00069,11.00069 m 15.22317,14.11198 c -1.33341,0.33336 -2.66683,0.66671 -4.11136,0.66671 -8.55608,0 -15.44541,-6.88932 -15.44541,-15.4454 l 0,-33.66876 c -15.00092,0.44447 -27.1128,12.66747 -27.1128,27.89062 0,15.44539 12.44524,27.89062 27.89063,27.89062 7.22266,0 13.77864,-2.88907 18.77894,-7.33379 m -15.77876,-48.22522 0,21.22355 24.33485,0 C 86.50083,346.55919 76.72243,338.11421 64.83281,336.78079"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomatonWeb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3801"
+       style="font-size:111.1180191px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;display:inline;font-family:AngelicaCP;-inkscape-font-specification:AngelicaCP Bold"
+       d="m 123.81292,390.58581 c 0,8.88201 7.23722,16.11923 16.11925,16.11923 8.88201,0 16.11923,-7.23722 16.11923,-16.11923 0,-8.88203 -7.23722,-16.11925 -16.11923,-16.11925 -8.88203,0 -16.11925,7.23722 -16.11925,16.11925 m 22.86301,-20.56027 c 8.71753,2.7962 14.96787,10.85583 14.96787,20.56027 0,12.00716 -9.70447,21.71163 -21.71163,21.71163 -9.53995,0 -17.43511,-6.08586 -20.39578,-14.63891 0.32897,14.63889 12.33616,26.4816 27.13954,26.4816 14.96785,0 27.13953,-12.17168 27.13953,-27.13953 0,-14.96785 -12.17168,-26.97506 -27.13953,-26.97506 m 29.93573,-42.76531 c -2.7962,1.48033 -5.5924,2.30274 -8.88204,2.30274 -10.19787,0 -18.58646,-8.38858 -18.58646,-18.58646 0,-4.44102 1.48034,-8.55307 4.27652,-11.84271 -2.79618,-0.98689 -5.59238,-1.64482 -8.55305,-1.8093 l 0,69.4114 c 17.92852,-1.48033 32.07399,-16.44821 32.07399,-34.7057 0,-1.64482 -0.16449,-3.28964 -0.32896,-4.76997 m -37.33743,39.47567 0,-69.4114 c -17.92852,1.48033 -32.07399,16.44821 -32.07399,34.7057 0,18.25749 14.14547,33.22537 32.07399,34.7057 m 15.46132,-55.75939 c 0,7.23719 5.75687,12.99408 12.99407,12.99408 7.23721,0 12.99409,-5.75689 12.99409,-12.99408 0,-7.2372 -5.75688,-12.99409 -12.99409,-12.99409 -7.2372,0 -12.99407,5.75689 -12.99407,12.99409"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomatonWeb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3803"
+       style="font-size:111.1180191px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2b0000;fill-opacity:1;stroke:none;display:inline;font-family:AngelicaCP;-inkscape-font-specification:AngelicaCP Bold"
+       d="m 223.96981,391.00639 0,-51.89212 -2.88907,0 0,51.89212 2.88907,0 m -26.77944,-27.44615 0,-24.44597 -16.33435,0 0,35.00218 c 0,10.11173 8.11162,18.22335 18.22335,18.22335 10.11173,0 18.22336,-8.11162 18.22336,-18.22335 l 0,-35.00218 -16.33435,0 0,24.44597 c 0,1.00006 -0.88895,1.889 -1.88901,1.889 -1.00006,0 -1.889,-0.88894 -1.889,-1.889"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomatonWeb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3805"
+       style="font-size:111.1180191px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2b0000;fill-opacity:1;stroke:none;display:inline;font-family:AngelicaCP;-inkscape-font-specification:AngelicaCP Bold"
+       d="m 260.1548,370.89403 c 0,6.11148 4.8892,11.00068 11.00069,11.00068 6.11148,0 11.00068,-4.8892 11.00068,-11.00068 0,-6.11149 -4.8892,-11.00069 -11.00068,-11.00069 -6.11149,0 -11.00069,4.8892 -11.00069,11.00069 m 15.22317,14.11198 c -1.33341,0.33336 -2.66683,0.66671 -4.11136,0.66671 -8.55608,0 -15.44541,-6.88932 -15.44541,-15.4454 l 0,-33.66876 c -15.00092,0.44447 -27.1128,12.66747 -27.1128,27.89062 0,15.44539 12.44524,27.89062 27.89063,27.89062 7.22266,0 13.77864,-2.88907 18.77894,-7.33379 m -15.77876,-48.22522 0,21.22355 24.33485,0 c -2.66683,-11.44515 -12.44523,-19.89013 -24.33485,-21.22355"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomatonWeb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3807"
+       style="font-size:111.1180191px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2b0000;fill-opacity:1;stroke:none;display:inline;font-family:AngelicaCP;-inkscape-font-specification:AngelicaCP Bold"
+       d="m 331.78643,391.00639 0,-51.89212 -2.88907,0 0,51.89212 2.88907,0 m -26.77944,-27.44615 0,-24.44597 -16.33435,0 0,35.00218 c 0,10.11173 8.11162,18.22335 18.22335,18.22335 10.11173,0 18.22336,-8.11162 18.22336,-18.22335 l 0,-35.00218 -16.33435,0 0,24.44597 c 0,1.00006 -0.88895,1.889 -1.88901,1.889 -1.00006,0 -1.889,-0.88894 -1.889,-1.889"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomatonWeb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3809"
+       style="font-size:111.1180191px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2b0000;fill-opacity:1;stroke:none;display:inline;font-family:AngelicaCP;-inkscape-font-specification:AngelicaCP Bold"
+       d="m 336.52502,320.55756 0,71.78224 2.88907,0 0,-71.78224 -2.88907,0 m 21.77913,0 -15.11205,0 0,71.78224 14.7787,0 0.33335,-71.78224"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomatonWeb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3813"
+       style="font-size:111.1180191px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2b0000;fill-opacity:1;stroke:none;display:inline;font-family:AngelicaCP;-inkscape-font-specification:AngelicaCP Bold"
+       d="m 450.34203,368.67166 0,23.66814 16.33435,0 0,-34.22435 c 0,-10.11173 -8.11163,-18.22336 -18.22336,-18.22336 -10.11173,0 -18.22335,8.11163 -18.22335,18.22336 l 0,34.22435 16.33435,0 0,-23.66814 c 0,-1.00006 0.88894,-1.88901 1.889,-1.88901 1.00006,0 1.88901,0.88895 1.88901,1.88901 m -26.77944,-28.22398 0,51.89212 2.88907,0 0,-51.89212 -2.88907,0 m 61.00416,28.22398 0,23.66814 16.33435,0 0,-34.22435 c 0,-10.11173 -8.11162,-18.22336 -18.22335,-18.22336 -10.11173,0 -17.63346,8.12885 -18.22336,18.22336 l 0,34.22435 16.33435,0 0,-23.66814 c 0,-1.00006 0.88895,-1.88901 1.88901,-1.88901 1.00006,0 1.889,0.88895 1.889,1.88901"
+       sodipodi:nodetypes="cccsssccsscccccccccsssccssc"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomatonWeb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3815"
+       style="font-size:111.1180191px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2b0000;fill-opacity:1;stroke:none;display:inline;font-family:AngelicaCP;-inkscape-font-specification:AngelicaCP Bold"
+       d="m 526.41875,364.44918 c 0,6.44484 5.22255,11.66739 11.66739,11.66739 6.44484,0 11.66739,-5.22255 11.66739,-11.66739 0,-6.44484 -5.22255,-11.66739 -11.66739,-11.66739 -6.44484,0 -11.66739,5.22255 -11.66739,11.66739 m 26.00161,20.55683 0,-14.77869 c -2.33347,5.66701 -7.77827,9.66727 -14.33422,9.66727 -8.55608,0 -15.44541,-6.88933 -15.44541,-15.44541 0,-8.55608 6.88933,-15.4454 15.44541,-15.4454 6.55595,0 12.00075,4.00025 14.33422,9.66726 l 0,-14.77869 c -5.0003,-4.55584 -11.55628,-7.33379 -18.89006,-7.33379 -15.44539,0 -27.89062,12.44523 -27.89062,27.89062 0,15.44539 12.44523,27.89062 27.89062,27.89062 7.33378,0 13.88976,-2.77795 18.89006,-7.33379 m 4.00025,-45.89174 0,52.00324 2.88907,0 0,-52.00324 -2.88907,0"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomatonWeb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3817"
+       style="font-size:111.1180191px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2b0000;fill-opacity:1;stroke:none;display:inline;font-family:AngelicaCP;-inkscape-font-specification:AngelicaCP Bold"
+       d="m 570.71548,330.80137 c -2.77794,0.77783 -5.66702,1.33342 -8.6672,1.55565 l 0,3.11131 5.5559,0 0,35.89112 c 0,17.33439 9.22281,25.22379 22.33472,25.22379 5.33366,0 12.66746,-5.22255 12.66746,-5.22255 -3.55578,1.66677 -8.66721,3.22242 -12.66746,3.22242 -12.00073,0 -19.22342,-12.00075 -19.22342,-22.66807 l 0,-41.11367 m 25.77939,58.89255 c -8.55608,0 -15.44541,-6.88933 -15.44541,-15.4454 0,-7.22267 4.77808,-13.33417 11.55627,-15.00094 l 0,-23.77925 9.11168,0 0,-4.22249 -9.11168,0 0,-18.66782 c -5.22254,8.77831 -11.33404,14.44534 -18.33447,17.22329 l 0,42.11373 c 0,9.11167 6.00038,19.1123 15.66764,19.1123 3.77801,0 6.33373,-0.33336 9.55615,-1.66677 -1.00006,0.22223 -1.77789,0.33335 -3.00018,0.33335 m -11.6674,-15.4454 c 0,6.44483 5.22256,11.66739 11.6674,11.66739 6.44483,0 11.66739,-5.22256 11.66739,-11.66739 0,-6.44484 -5.22256,-11.6674 -11.66739,-11.6674 -6.44484,0 -11.6674,5.22256 -11.6674,11.6674"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomatonWeb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3819"
+       style="font-size:111.1180191px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;display:inline;font-family:AngelicaCP;-inkscape-font-specification:AngelicaCP Bold"
+       d="m 650.45883,364.44918 c 0,-6.44484 -5.22255,-11.66739 -11.66739,-11.66739 -6.44484,0 -11.66739,5.22255 -11.66739,11.66739 0,6.44484 5.22255,11.66739 11.66739,11.66739 6.44484,0 11.66739,-5.22255 11.66739,-11.66739 m -27.1128,0 c 0,-8.55608 6.88933,-15.4454 15.44541,-15.4454 8.55608,0 15.4454,6.88932 15.4454,15.4454 0,8.55608 -6.88932,15.44541 -15.4454,15.44541 -8.55608,0 -15.44541,-6.88933 -15.44541,-15.44541 m -12.44521,0 c 0,15.44539 12.44523,27.89062 27.89062,27.89062 15.44539,0 27.89062,-12.44523 27.89062,-27.89062 0,-15.44539 -12.44523,-27.89062 -27.89062,-27.89062 -15.44539,0 -27.89062,12.44523 -27.89062,27.89062"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomatonWeb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccccccccczcsssccsc"
+       inkscape:connector-curvature="0"
+       id="path3821"
+       style="font-size:111.1180191px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;display:inline;font-family:AngelicaCP;-inkscape-font-specification:AngelicaCP Bold"
+       d="m 671.42065,340.16494 0,51.89212 2.88907,0 0,-51.89212 -2.88907,0 m 26.77944,28.22398 0,23.66814 14.56658,0.25254 7.82868,0.0302 c 0,0 -8.53646,-10.13151 -8.33375,-16.88984 0.20271,-6.75833 8.33375,-15.37461 8.33375,-15.37461 l -6.06091,-5.2731 c -7.62866,-6.63706 -8.11163,-15.1929 -18.22336,-15.1929 -10.11173,0 -18.22335,8.11163 -18.22335,18.22336 l 0,34.22435 16.33435,0 0,-23.66814 c 0,-1.00006 0.88894,-1.88901 1.889,-1.88901"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomatonWeb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#2b0000;fill-opacity:1;stroke:none;display:inline"
+       d="m 727.22223,363.72826 c 16.55658,-7.52495 18.82175,-27.17543 26.50157,-26.72017 7.67987,0.45526 5.36059,10.71708 2.07268,13.74191 -3.2878,3.02483 -14.14937,10.22159 -28.57425,12.97826 z"
+       id="path2995"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzc"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomatonWeb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="czzc"
+       inkscape:connector-curvature="0"
+       id="path3765"
+       d="m 718.92714,374.10161 c 16.68615,-1.41618 44.30765,-15.17842 49.21737,-3.25245 4.90993,11.92596 -11.80924,13.43191 -17.60985,9.60556 -5.8005,-3.82635 -14.20449,-5.80925 -31.60752,-6.35311 z"
+       style="fill:#000080;fill-opacity:1;stroke:none;display:inline"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomatonWeb.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomatonWeb.png"
+       d="m 402.60077,364.44918 c 0,-6.44484 -5.22255,-11.66739 -11.66739,-11.66739 -6.44484,0 -11.66739,5.22255 -11.66739,11.66739 0,6.44484 5.22255,11.66739 11.66739,11.66739 6.44484,0 11.66739,-5.22255 11.66739,-11.66739 m -27.1128,0 c 0,-8.55608 6.88933,-15.4454 15.44541,-15.4454 8.55608,0 15.4454,6.88932 15.4454,15.4454 0,8.55608 -6.88932,15.44541 -15.4454,15.44541 -8.55608,0 -15.44541,-6.88933 -15.44541,-15.44541 m -12.44521,0 c 0,15.44539 12.44523,27.89062 27.89062,27.89062 15.44539,0 27.89062,-12.44523 27.89062,-27.89062 0,-15.44539 -12.44523,-27.89062 -27.89062,-27.89062 -15.44539,0 -27.89062,12.44523 -27.89062,27.89062"
+       style="font-size:111.1180191px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;display:inline;font-family:AngelicaCP;-inkscape-font-specification:AngelicaCP Bold"
+       id="path4129"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6.8072953cm"
+   height="6.3085413cm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Double_PorteSaucisson.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3036573"
+     inkscape:cx="88.220784"
+     inkscape:cy="43.274267"
+     inkscape:document-units="cm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="cm"
+     objecttolerance="1"
+     gridtolerance="2"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-to-guides="false"
+     inkscape:window-width="1017"
+     inkscape:window-height="711"
+     inkscape:window-x="91"
+     inkscape:window-y="61"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       units="mm"
+       spacingx="1mm"
+       spacingy="1mm"
+       originx="0.75211415"
+       originy="-293.25014" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="89.334791,167.37978"
+       id="guide2993" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.75211415,-535.57972)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 106.29921,595.48995 c 0,12.10766 -14.180999,15.12395 -17.716534,-0.0425 -4.482624,-19.23177 0.883991,-37.43306 2.020305,-55.1496 31.703269,6.06092 59.991819,-10.98894 65.815379,-1.01015 5.82357,9.97878 20.61967,127.93227 -12.13921,151.6325 -13.31811,9.63532 -52.775534,10.9417 -15.71772,42.03793 11.62791,7.59558 23.0004,8.59601 27.63441,1.63664 4.634,-6.95937 11.70036,-17.83795 16.96951,-17.83795 5.26915,0 10.21407,17.60233 19.79521,16.70638 10.02973,-0.9379 16.91119,-1.92647 23.13279,-11.11169 6.22161,-9.18523 17.77447,-20.74425 22.24193,-7.61501 4.46746,13.12924 -0.54569,33.08508 -13.1726,43.81924 -31.19819,-9.02466 -70.48944,1.55254 -90.50146,-0.81003 C 114.64919,755.38314 78.855785,739.08184 82.760199,713.60979 40.862971,728.52896 50.9886,690.41512 0,735.63887 l 8.4378004,-46.209 C 59.33927,704.15481 87.155728,652.03489 139.06735,660.16791 l -0.88831,-33.00393 0,-69.14961 -31.87983,0 z"
+       id="path2995"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccczscszszzczcccccccc" />
+  </g>
+</svg>

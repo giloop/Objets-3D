@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="FaviconWeb.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       id="perspective8310"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.2959703"
+     inkscape:cx="117.20009"
+     inkscape:cy="25.578413"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     inkscape:window-width="1570"
+     inkscape:window-height="644"
+     inkscape:window-x="61"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-340.80757,-691.55417)"
+     style="display:inline">
+    <path
+       style="fill:#d45500;fill-opacity:1;stroke:none"
+       d="m 404.44801,751.43936 c 18.63454,0.51734 36.36724,14.38189 34.69432,20.57628 -1.67285,6.1944 -6.97136,7.06958 -10.98798,3.57501 -4.0166,-3.49458 -6.68846,-18.66289 -23.70634,-24.15129 z"
+       id="path3767"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzc"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomatonWeb.png"
+       inkscape:export-xdpi="88.766205"
+       inkscape:export-ydpi="88.766205" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Appareil"
+     style="display:inline"
+     transform="translate(-340.80757,-383.28647)">
+    <g
+       style="fill:#d45500"
+       id="g3098"
+       transform="matrix(17.340746,0,0,-17.340746,361.32065,409.59356)"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomatonWeb.png"
+       inkscape:export-xdpi="88.766205"
+       inkscape:export-ydpi="88.766205">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 1.0380176,0 c 0.629,0 1.2744676,-0.11594794 1.475,-0.82088304 L 3.248,-0.34566209 3.248,0.104 c 0,0.35299997 -0.287,0.64 -0.641,0.64 l -3.15094125,0 c -0.353,0 -0.63899995,-0.287 -0.63899995,-0.64 l 0.002,-0.944 0.74395883,-0.002 c 0.303,0.502 0.846,0.842 1.47499997,0.842"
+         style="fill:#800000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3100"
+         sodipodi:nodetypes="cccssscccc" />
+    </g>
+    <g
+       style="fill:#d45500"
+       id="g3102"
+       transform="matrix(17.340746,0,0,-17.340746,309.57074,391.45681)"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomatonWeb.png"
+       inkscape:export-xdpi="88.766205"
+       inkscape:export-ydpi="88.766205" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 385.40152,393.20116 -11.68766,0 0,-5.65309 11.68766,0 0,5.65309 z m 10.71658,-7.92472 -32.99944,0 -6.79757,9.95358 46.02234,0 -6.22533,-9.95358 z"
+       style="fill:#d45500;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path3110"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomatonWeb.png"
+       inkscape:export-xdpi="88.766205"
+       inkscape:export-ydpi="88.766205" />
+    <g
+       style="fill:#800000"
+       id="g3112"
+       transform="matrix(17.340746,0,0,-17.340746,388.48501,427.2065)"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomatonWeb.png"
+       inkscape:export-xdpi="88.766205"
+       inkscape:export-ydpi="88.766205">
+      <path
+         inkscape:connector-curvature="0"
+         d="M 1.0882514,-1.3040543 C 0.94769604,-1.9182006 0.26211057,-2.4403644 -0.52798237,-2.43 c -0.95200003,0 -1.72300003,0.772 -1.72300003,1.723 0,0.253 0.057,0.491 0.156,0.708 l -0.6539588,0 0,-2.596 c 0,-0.352 0.285,-0.639 0.639,-0.639 l 3.1509412,0 c 0.354,0 0.641,0.287 0.641,0.639 l 0.002,0.989543 z"
+         style="fill:#800000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3114"
+         sodipodi:nodetypes="ccsccsssccc" />
+    </g>
+    <g
+       style="fill:#ffcc00"
+       id="g3116"
+       transform="matrix(22.081379,0,0,-21.293066,377.74368,427.05038)"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomatonWeb.png"
+       inkscape:export-xdpi="88.766205"
+       inkscape:export-ydpi="88.766205">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 1.0490563,0.03353124 c -0.22816406,0.44158389 -0.62465593,0.6819 -0.9833805,0.47735186 -0.37575818,-0.36415028 -0.5006721,0.0598405 -0.942,-0.536 -0.101,-0.166 -0.162,-0.358 -0.162,-0.566 0,-0.609 0.494,-1.102 1.104,-1.102 0.48865258,0 0.86644792,0.2472848 1.0658593,0.69737112 -0.4644557,0.15473168 -0.84628872,0.55208419 -0.082479,1.02927702 z"
+         style="fill:#d45500;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3118"
+         sodipodi:nodetypes="cccsscc" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Etoile"
+     style="display:none"
+     transform="translate(-340.80757,-383.28647)">
+    <g
+       style="font-style:normal;font-weight:normal;font-size:83.80053711px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800000;fill-opacity:1;stroke:none"
+       id="text3840"
+       transform="matrix(1.2723702,0,0,1.2723702,21.653725,126.96102)"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomaton2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         d="m 456.05387,353.05036 c -1.49284,7.65069 -2.98564,12.9688 -4.47841,15.95436 -1.58614,3.35886 -3.73204,5.03825 -6.43772,5.03821 -3.17223,4e-5 -8.77025,-2.89226 -16.79405,-8.67692 6.1578,8.77027 9.23671,14.78813 9.23673,18.0536 -2e-5,2.61244 -1.49282,4.66504 -4.47842,6.15781 -2.61241,1.39954 -7.32408,2.75239 -14.13499,4.05857 6.81091,1.30623 11.52258,2.61244 14.13499,3.91861 3.0789,1.49282 4.61835,3.49878 4.61836,6.01787 -1e-5,3.35883 -3.12557,9.37669 -9.37667,18.05361 8.0238,-5.69131 13.62182,-8.53697 16.79405,-8.53698 2.61238,1e-5 4.75829,1.67941 6.43772,5.03822 1.39947,2.9856 2.89228,8.30372 4.47841,15.95434 1.49277,-7.65062 2.98558,-12.96874 4.47842,-15.95434 1.67936,-3.35881 3.87191,-5.03821 6.57766,-5.03822 3.17217,1e-5 8.77018,2.84567 16.79406,8.53698 -6.25117,-8.77023 -9.37673,-14.78809 -9.37668,-18.05361 -5e-5,-2.51909 1.43039,-3.92934 4.47841,-6.01787 3.04802,-2.08854 7.41731,-2.61238 14.13499,-3.91861 -6.71768,-1.30618 -11.42934,-2.65903 -14.13499,-4.05857 -2.98566,-1.49277 -4.47846,-3.49871 -4.47841,-6.01787 -5e-5,-3.35876 3.12551,-9.42327 9.37668,-18.19354 -8.02388,5.78466 -13.66854,8.67696 -16.934,8.67692 -2.61245,4e-5 -4.75836,-1.67935 -6.43772,-5.03821 -1.49284,-2.98556 -2.98565,-8.30367 -4.47842,-15.95436 m 27.89446,47.86369 c -9.58775,-1.6813 -17.22189,-6.37001 -18.07235,-4.25234 -0.70941,1.80585 10.64079,8.37888 18.01156,12.20418 -3.01207,-0.45956 -19.38786,-10.53777 -20.4791,-8.65116 -1.09124,1.8866 0.84152,2.46901 5.64159,7.7234 -6.2368,-3.76401 -6.84283,-6.00394 -9.67845,-4.62807 -2.83562,1.37587 -2.02309,8.03117 -2.6235,13.3296 -0.76079,-5.46708 -0.60507,-11.46651 -4.58759,-12.41256 -2.33253,10e-6 -3.9214,0.0663 -9.70601,4.26479 5.601,-5.4024 6.19404,-5.81882 5.4847,-6.95234 -2.47595,-2.88736 -17.32863,3.70109 -19.48277,4.43867 7.18411,-4.10519 18.03848,-8.41279 18.03851,-9.81232 -3e-5,-1.39948 -5.8314,-1.59098 -14.13511,-2.3374 4.57726,-0.53632 13.63649,-0.38684 15.00058,-2.08223 1.37938,-2.36157 10e-4,-5.98629 -5.14521,-12.12051 5.7846,5.22486 7.36025,6.66974 8.75978,6.6697 0.52821,-3.57198 -6.01202,-17.56947 -6.95683,-21.90911 4.47871,9.00649 8.56738,20.39362 9.96692,20.39357 1.58608,5e-5 1.13579,-13.16275 2.06882,-23.05262 0.93297,9.88987 0.42434,23.05033 2.01048,23.05029 1.39946,4e-5 6.0133,-12.27407 10.30515,-20.39124 -2.42584,7.09087 -7.03335,19.71132 -7.03331,21.57727 1.44366,4.85944 3.51415,0.3027 8.07509,-3.43601 -3.28567,5.74356 -5.42281,7.72479 -4.37434,9.37801 1.04847,1.65322 12.50125,5.27107 18.91139,9.00843 z"
+         style="font-variant:normal;font-stretch:normal;font-family:HEretica;-inkscape-font-specification:HEretica;fill:#800000"
+         id="path3845"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccscscccscczcccccccccczczccccccccccccccccczc" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="O rond"
+     style="display:inline"
+     transform="translate(-340.80757,-383.28647)">
+    <path
+       style="display:inline;fill:#d45500;fill-opacity:1;stroke:none"
+       d="m 402.27243,430.31244 c 19.09861,-3.99931 25.39374,-27.49982 33.21254,-25.30107 7.81887,2.19874 2.89503,12.1543 -1.47996,14.58554 -4.375,2.43124 -17.86304,11.77302 -31.73258,10.71553 z"
+       id="path2995"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzc"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomatonWeb.png"
+       inkscape:export-xdpi="88.766205"
+       inkscape:export-ydpi="88.766205" />
+    <path
+       sodipodi:nodetypes="czzc"
+       inkscape:connector-curvature="0"
+       id="path3765"
+       d="m 397.11694,438.02817 c 14.43181,-1.54968 37.87869,-13.3837 42.6039,-3.82029 4.7254,9.56342 -9.73161,11.18675 -14.91609,8.21971 -5.18438,-2.96704 -12.55757,-4.3752 -27.68781,-4.39942 z"
+       style="display:inline;fill:#800000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/media/gilou/PROGRAMMES/Imprimante 3D/Objets 3D/SVG files/Le Gueuloir/LogoGueulomatonWeb.png"
+       inkscape:export-xdpi="88.766205"
+       inkscape:export-ydpi="88.766205" />
+  </g>
+</svg>
